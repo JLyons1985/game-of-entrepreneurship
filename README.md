@@ -1,2 +1,2 @@
-# game-of-entrepreneurship
+# Game of Entrepreneurship
 SER 315 Team F class project.
