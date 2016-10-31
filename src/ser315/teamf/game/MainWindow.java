@@ -24,7 +24,7 @@
  *
  * Project:          GameOfEntrepreneurship
  * Project File:     MainWindow.java
- * File Description: 
+ * File Description: Change 1
  * Author:           Joshua Lyons <josh@lyonsdensoftware.com>
  */
 package ser315.teamf.game;
